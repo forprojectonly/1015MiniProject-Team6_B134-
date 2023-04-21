@@ -49,5 +49,7 @@ What did we learn from this project?
 - Collaborating using GitHub
 
 References
-- Links
+- https://spotipy.readthedocs.io/en/2.22.1/
+- https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
+- 
 
