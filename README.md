@@ -15,9 +15,7 @@ For detailed walkthrough, please view the source code in order from:
 
 
 Contributors
-- Chad - Neural Networks, Data Extraction, random forest
-- ___ Data visualization, Data  Extraction
-- ___ Random Forest, Linear regression
+-Work evenly distributed
 
 Problem Defination
 -To Identify what makes a song popular on Spotify and Youtube.
@@ -35,7 +33,7 @@ Conclusion
 - There are correlations between Loudness and energy 
 - There are correlations between Likes, comments 
 - There is a very weak corelations between the likes
-- 
+-  ( beef up abit here) 
 - No, we are not able to predict what factors determines the popularity of a music and we can hypothesis that there are other external factors which affects the popularity of the song.
 
 What did we learn from this project?
