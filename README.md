@@ -168,7 +168,11 @@ But, most importantly, we as a group learnt the importance of proper problem def
 Our group also had to change datasets midway through our project. A key issue arose when the data collected was found to be missing certain variables, as well as being of unidentifiable types. The failure to perform thorough checks initial data collection meant that there was insufficient time to recollect data from the original source as we were rate-limited. The building an initial and primitive model is therefore an important step that should be performed before large-scale data collection. It is also a good habit to read the json file thoroughly and identify any possible pitfalls that may lead to errors in data collection.
 
 
-References
+**References**
 - https://spotipy.readthedocs.io/en/2.22.1/
 - https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
 
+
+**Links**
+Script - https://docs.google.com/document/d/18nWwDpkvdgs9cspAGZc19c2tTB5z_usDK7K3vVDv6x8/edit
+Canva Slides - https://www.canva.com/design/DAFgYUF9QZ0/hVNMTzqtDFjJVA7Ta0u_kQ/edit?utm_content=DAFgYUF9QZ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
