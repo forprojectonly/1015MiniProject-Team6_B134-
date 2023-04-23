@@ -3,16 +3,23 @@
 Welcome to Team 6's repository! 
 
 **About:**
+
 This mini project for SC1015(Introduction to Data Science and Artificial Intelligence) aims to analyse the relationship between audio features and popularity of tracks on youtube and spotify.
 
 For a more detailed walkthrough, please view the source code in order from:
 
 1.Data Extraction
+
 2.Data Cleaning
+
 3.Data Visualization
+
 4.Linear Regression 
+
 5.Decision Tree
+
 6.Random Forest
+
 7.Neural Network Regression
 
 
