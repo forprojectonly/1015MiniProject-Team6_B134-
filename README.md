@@ -144,6 +144,8 @@ The random forest model was an improvement over the decision tree model, with an
 
 The neural network regression model performed the worst among the four models, with a negative R-squared value and extremely high prediction errors.
 
+Although we do have the coefficients for our model, the poor R^2 value of all models limited their usefulness, and thus we omitted them in our video and report. They are available in the codes.
+
 Overall, none of the four models were able to accurately predict the popularity of music tracks based on their audio features. This suggests that there may be other factors beyond audio features that contribute to the popularity of music tracks on platforms like Spotify and YouTube.
 
 
