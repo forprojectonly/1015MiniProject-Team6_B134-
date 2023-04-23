@@ -163,7 +163,7 @@ However, this project was still extremely enriching and we learnt a lot through 
 
 But, most importantly, we as a group learnt the importance of proper problem definition. The poor performance of our models can be in part attributed to the lack of consideration regarding the links between various variables. For future projects, a more in-depth qualitative analysis of our context and problem can help us implement better models.
 
-Our group also had to change datasets midway through our datasets. A key issue arose when the data collected was found to be missing certain variables, as well as being of unidentifiable types. The failure to perform thorough checks initial data collection meant that there was insufficient time to recollect data from the original source as we were rate-limited. The building an initial and primitive model is therefore an important step that should be performed before large-scale data collection. It is also a good habit to read the json file thoroughly and identify any possible pitfalls that may lead to errors in data collection.
+Our group also had to change datasets midway through our project. A key issue arose when the data collected was found to be missing certain variables, as well as being of unidentifiable types. The failure to perform thorough checks initial data collection meant that there was insufficient time to recollect data from the original source as we were rate-limited. The building an initial and primitive model is therefore an important step that should be performed before large-scale data collection. It is also a good habit to read the json file thoroughly and identify any possible pitfalls that may lead to errors in data collection.
 
 
 References
