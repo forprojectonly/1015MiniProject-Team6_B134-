@@ -1,19 +1,19 @@
 # 1015MiniProject-Team6_B134
 
-Welcome to Youtube & Spotify repository 
+Welcome to Team 6's repository! 
 
 **About:**
-This mini project for SC1015(Introduction to Data Science and Artificial Intelligence) analyses the relationship between musical features and popularity of tracks on youtube and spotify.
+This mini project for SC1015(Introduction to Data Science and Artificial Intelligence) aims to analyse the relationship between audio features and popularity of tracks on youtube and spotify.
 
-For detailed walkthrough, please view the source code in order from:
+For a more detailed walkthrough, please view the source code in order from:
 
 1.Data Extraction
-2.Data cleaning
+2.Data Cleaning
 3.Data Visualization
-4.Linear regression 
+4.Linear Regression 
 5.Decision Tree
-6.Random forest
-7.neural network regression
+6.Random Forest
+7.Neural Network Regression
 
 
 **Contributors**
@@ -152,9 +152,10 @@ However, this project was still extremely enriching and we learnt a lot through 
 
 But, most importantly, we as a group learnt the importance of proper problem definition. The poor performance of our models can be in part attributed to the lack of consideration regarding the links between various variables. For future projects, a more in-depth qualitative analysis of our context and problem can help us implement better models.
 
+Our group also had to change datasets midway through our datasets. A key issue arose when the data collected was found to be missing certain variables, as well as being of unidentifiable types. The failure to perform thorough checks initial data collection meant that there was insufficient time to recollect data from the original source as we were rate-limited. The building an initial and primitive model is therefore an important step that should be performed before large-scale data collection. It is also a good habit to read the json file thoroughly and identify any possible pitfalls that may lead to errors in data collection.
+
 
 References
 - https://spotipy.readthedocs.io/en/2.22.1/
 - https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube
-- 
 
