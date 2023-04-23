@@ -76,10 +76,15 @@ Since the decision tree model did not perform well, we tried the random forest m
 When we applied the random forest model to our dataset, we obtained the following evaluation metrics:
 
 Mean squared error: 197732548760391360.00
+
 Coefficient of determination (R^2): 0.18
+
 Explained variance score: 0.18
+
 Maximum residual error: 9130671677.54
+
 Median absolute error: 159719667.75
+
 The R^2 value of 0.18 indicates that the random forest model can explain 18% of the variance in the target variable, which is a slight improvement over the decision tree model. However, the mean squared error is extremely high, indicating that the model has high prediction errors.
 
 The maximum residual error and median absolute error are also quite high, which means that the model has difficulty accurately predicting extreme values. However, the explained variance score of 0.18 suggests that the model can capture some of the variation in the target variable, which could be useful for some applications.
@@ -94,12 +99,19 @@ We also tried using neural network regression to predict the popularity of music
 However, when we applied the neural network model to our dataset, we obtained the following evaluation metrics:
 
 Test loss: 2.728456357937152e+16
+
 Test mean squared error: 2.728456357937152e+16
+
 Test mean absolute error: 44969376.0
+
 Test explained variance: 0.007524372541681405
+
 R-squared: -0.058256867244613986
+
 Mean absolute percentage error: Views 1.626201e+05, Comments inf, Likes 3.418453e+04
+
 Root mean squared error: 165180382.32395783
+
 Explained variance score: 0.007524372541681405
 
 The results show that the neural network model performed poorly in predicting the popularity of music tracks based on their audio features. The test loss and mean squared error are extremely high, indicating that the model has very high prediction errors.
