@@ -145,7 +145,7 @@ Overall, none of the four models were able to accurately predict the popularity 
 
 **Insights**
 
-In general, the poor performance of the models are likely not due to the appropriateness of the model, but rather the definition of our problem. We chose a narrow definition of our problem statement, restricting us to audio features of the music. Our results show that audio features are poorly correlated to a song's popularity.
+In general, the poor performances of the models are likely not due to the appropriateness of the model, but rather the definition of our problem. We chose a narrow definition of our problem statement, restricting us to audio features of the music. Our results show that audio features are poorly correlated to a song's popularity.
 
 Such a result, while disappointing, is understandable. 
 
