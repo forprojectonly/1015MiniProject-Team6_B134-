@@ -24,17 +24,21 @@ For a more detailed walkthrough, please view the source code in order from:
 
 
 **Contributors**
--Work evenly distributed
+
+Ooi Zi Xin, Chad Tan, Zhang Xinyang
 
 **Problem Definition**
+
 To Identify the relationship between a piece of music's audio features and its popularity on Spotify and Youtube.
 
 **Variables Used**
+
 Independent Variables: Spotify audio features including Danceability, Instrumentalness, Energy etc.
 
 Dependent Variables: Mainly Stream (Spotify) and Views (Youtube), with Comments and Likes (Youtube) being considered as well
 
 **Data Cleaning**
+
 There were 3 main steps when cleaning the data.
 1. Eliminate null values
 
